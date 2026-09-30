@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0088-merge-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
+| [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
