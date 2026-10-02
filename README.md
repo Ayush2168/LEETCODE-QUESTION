@@ -49,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
