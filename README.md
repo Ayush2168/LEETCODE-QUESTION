@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
