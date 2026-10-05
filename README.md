@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
