@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
