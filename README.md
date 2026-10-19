@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
