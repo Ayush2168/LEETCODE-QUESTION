@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2396-strictly-palindromic-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ayush2168/LEETCODE-QUESTION/tree/master/2520-count-the-digits-that-divide-a-number) |
